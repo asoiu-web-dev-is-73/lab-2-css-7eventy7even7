@@ -3,3 +3,8 @@ span
             color:Black;
             font-family:Verdana;
         }
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em
+}
